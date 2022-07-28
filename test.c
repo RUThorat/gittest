@@ -5,4 +5,6 @@ main()
      //initial Code
    }
  }
+<<<<<<< HEAD
 #this is test.c from main branch
+
